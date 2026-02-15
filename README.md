@@ -8,12 +8,9 @@ You can select any terminal application from a list of running or installed term
 
 Features:
 
-    Select from detected terminal applications (GNOME Terminal, Konsole, Tilix, Alacritty, etc.).
-
-    Assign any custom hotkey via the GNOME Settings panel.
-
-    Toggle visibility of the chosen terminal window with a single keystroke.
-
-    Lightweight and simple – no configuration files, no extra daemons.
+* Select from detected terminal applications (GNOME Terminal, Konsole, Tilix, Alacritty, etc.).
+* Assign any custom hotkey via the GNOME Settings panel.
+* Toggle visibility of the chosen terminal window with a single keystroke.
+* Lightweight and simple – no configuration files, no extra daemons.
 
 Perfect for users who miss their drop-down terminal workflow on Wayland.
