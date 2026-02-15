@@ -11,7 +11,6 @@ Features:
 * Select from detected terminal applications (Ptyxis, Ghostty, Tilix, Alacritty, etc.).
 * Assign any custom hotkey via the GNOME Settings panel.
 * Toggle visibility of the chosen terminal window with a single keystroke.
-* Lightweight and simple – no configuration files, no extra daemons.
 
 Why another drow-down terminal extension?
 
