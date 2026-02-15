@@ -13,4 +13,9 @@ Features:
 * Toggle visibility of the chosen terminal window with a single keystroke.
 * Lightweight and simple – no configuration files, no extra daemons.
 
-Perfect for users who miss their drop-down terminal workflow on Wayland.
+Why another drow-down terminal extension?
+
+* Other extensions minimize or move the window between workspaces. 
+* This one simply hides it (using the visibility property). 
+* Instant show/hide, no animations, no delays. Just fast, clean drop-down behavior.
+
